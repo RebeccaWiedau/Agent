@@ -1,0 +1,67 @@
+/* Generally */
+html { 
+    font-size: 18px;
+}
+
+body {
+    color: white;
+}
+
+.blackback {
+    background-color: black;
+}
+
+.pagewidth {
+    width: 960px;
+    margin: auto;
+    
+}
+
+/* Header Section */
+header {
+
+}
+
+.logo {
+    
+}
+
+.moto {
+    background-image: url(../resources/moto.jpeg);
+    background-size: cover;
+    height:25rem;
+}
+.blackbox {
+    
+}
+.red {
+    background-color: darkred;    
+}
+
+.small {
+    display: none;
+}
+
+/* Main Section */
+
+.item_box {
+}
+
+.item_box img{
+    background-color: white;
+    height: 9rem;
+    margin: 2rem 0;
+}
+
+.x {
+    color: black;
+}
+
+/* Footer Section */
+
+
+@media only screen and (max-width: 1024px) {
+}
+
+@media only screen and (max-width: 470px) {
+}
